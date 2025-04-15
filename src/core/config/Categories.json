@@ -89,6 +89,8 @@
             "AES Decrypt",
             "Blowfish Encrypt",
             "Blowfish Decrypt",
+            "Borsh Encode",
+            "Borsh Decoding",
             "DES Encrypt",
             "DES Decrypt",
             "Triple DES Encrypt",
